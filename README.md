@@ -1,4 +1,5 @@
 ### Hi there, I'm Edwin 👋
+Bootcamp graduate Software Developer 🧑‍💻
 
 ## A little more about me...
 
@@ -8,7 +9,7 @@ const profile = {
  programmingSkills: {
     clientSoftware: ["HTML", "CSS", "JavaScript", "React", "Next", "Redux", "Tailwind", "Bootstrap", "Emotion", "GraphQL with Appolo"],
     serverSoftware: ["NodeJS", "ExpressJS", "MySQL"],
-    programming_lang:["Javascript"],
+    programming_lang: ["Javascript"],
         },
   languages: ["English", "Bahasa Indonesia"],
   currentlyLearning: ["Typescript"],
