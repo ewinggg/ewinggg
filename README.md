@@ -18,7 +18,7 @@ const profile = {
 ```
 📫 Reach me on: 
 - [Linkedin](https://www.linkedin.com/in/edwinhonami/)
-- [Twitter](https://twitter.com/edwinhonami)
+
 
 <!--
 **ewinggg/ewinggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
