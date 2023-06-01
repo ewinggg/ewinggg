@@ -7,13 +7,11 @@ Bootcamp graduate Software Developer 🧑‍💻
 const profile = {
  fullName: "Edwin Honami Hadiputra",
  programmingSkills: {
-    clientSoftware: ["HTML", "CSS", "JavaScript", "React", "Next", "Redux", "Tailwind", "Bootstrap", "Emotion", "GraphQL with Appolo"],
+    clientSoftware: ["HTML", "CSS", "TypeScript", "React", "Next", "Redux", "Tailwind", "Bootstrap", "Emotion", "GraphQL with Appolo"],
     serverSoftware: ["NodeJS", "ExpressJS", "MySQL"],
-    programming_lang: ["Javascript"],
+    programming_lang: ["TypeScript"],
         },
-  languages: ["English", "Bahasa Indonesia"],
-  currentlyLearning: ["Typescript"],
-  exploring: ["Web 3.0", "Solidity", "Blockchain", "Golang", "MongoDB", "VueJS"]
+  languages: ["English", "Bahasa Indonesia"]
 }
 ```
 📫 Reach me on: 
