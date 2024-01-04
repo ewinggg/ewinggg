@@ -1,4 +1,4 @@
-# [Edwin Honami Hadiputra]
+# Edwin Honami Hadiputra
 
 ## 👨‍💻 About Me
 
@@ -19,7 +19,7 @@ I'm a Front End Engineer passionate about building scalable, efficient web appli
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=[ewinggg]&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ewinggg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Recent Projects
 
@@ -28,12 +28,12 @@ I'm a Front End Engineer passionate about building scalable, efficient web appli
 
 ## 📫 Get In Touch
 
-- LinkedIn: [https://www.linkedin.com/in/edwinhonami/]
-- Email: [edwinhonami11@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/edwinhonami/
+- Email: edwinhonami11@gmail.com
 
 ## 💡 Interests
 
-Aside from coding, I'm also passionate about building and discussing remote work trends.
+Aside from coding, I'm passionate about building and discussing remote work trends.
 
 ---
-⭐️ From [ewinggg](https://github.com/[YourGitHubUsername])
+⭐️ From ewinggg(https://github.com/[YourGitHubUsername])
