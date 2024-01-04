@@ -21,11 +21,6 @@ I'm a Front End Engineer passionate about building scalable, efficient web appli
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ewinggg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Recent Projects
-
-- **Project Name 1:** Description (Tech stack) - [Repo Link]
-- **Project Name 2:** Description (Tech stack) - [Repo Link]
-
 ## 📫 Get In Touch
 
 - LinkedIn: https://www.linkedin.com/in/edwinhonami/
@@ -36,4 +31,4 @@ I'm a Front End Engineer passionate about building scalable, efficient web appli
 Aside from coding, I'm passionate about building and discussing remote work trends.
 
 ---
-⭐️ From ewinggg(https://github.com/[YourGitHubUsername])
+⭐️ From ewinggg(https://github.com/ewinggg)
