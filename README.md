@@ -7,6 +7,7 @@ I'm a Front-End Engineer dedicated to building intuitive, scalable, and efficien
 ## 📈 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ewinggg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewinggg&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 📫 Get In Touch
 
