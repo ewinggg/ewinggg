@@ -2,20 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Front End Engineer passionate about building scalable, efficient web applications. Currently, I'm focused on creating innovative solutions in the fintech sector.
-
-🌱 I’m currently learning advanced React techniques and exploring SaaS development.
-
-🎯 2024 Goals: Contribute to open-source projects and launch my SaaS business.
-
-🧳 Fun fact: I love traveling and aim to explore a new destination twice a year.
-
-## 🛠 Tech Stack
-
-- **Frontend:** TypeScript (ES6+), React, NextJS
-- **Backend:** Node.js, Express, NestJS
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, Docker, AWS
+I'm a Front-End Engineer dedicated to building intuitive, scalable, and efficient web applications. My journey has taken me through various sectors, currently focusing on the travel industry.
 
 ## 📈 GitHub Stats
 
@@ -25,10 +12,6 @@ I'm a Front End Engineer passionate about building scalable, efficient web appli
 
 - LinkedIn: https://www.linkedin.com/in/edwinhonami/
 - Email: edwinhonami11@gmail.com
-
-## 💡 Interests
-
-Aside from coding, I'm passionate about building and discussing remote work trends.
 
 ---
 ⭐️ From ewinggg(https://github.com/ewinggg)
